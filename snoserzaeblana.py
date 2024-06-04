@@ -215,4 +215,4 @@ def handle_complaint(senders, receivers):
 
 
 if __name__ == "__main__":
-    handle_complaint(senders, receivers
+    handle_complaint(senders, receivers)
