@@ -14,11 +14,118 @@ senders = {
     'hotriosmartraverba@mail.ru': 'cALqh0bjnPefyiu7WL0v',
     'pillgemisscritcomsa@mail.ru': 'dHBUrMg6aqXhvx0m1cVf',
     'leigedeamvebig@mail.ru': 'dVTsGqDbZYbjse9iHNR2',
+    'v.karpov@neupaverney.bizml.ru': 'M6MEdPm1v8',
+    'm.kireev@seimefavern.bizml.ru': 'lqXOwMcbrd',
+    'v.balashov@publoohasja.bizml.ru': 'lqXOwMcbrd',
+    'd.shapovalov@erurrila.bizml.ru': '6z9U7RhEsU',
+    'a.sirotkin@psychumsoymarg.bizml.ru': 'CtcagNZdIT',
+    'd.kurashov@endiscurea.bizml.ru': 'mun9yZaqrW',
+    'v.mostovov@pestpafento.bizml.ru': 'c88s3MFDbw',
+    'm.chirkov@sulriemycha.bizml.ru': 'c88s3MFDbw',
+    'g.kolosov@baibenidab.bizml.ru': 'CtcagNZdIT',
+    'v.kuznecov@tietaturkli.bizml.ru': 'wu4Qi9uiTP',
+    'd.pimenov@serefuncra.bizml.ru': 'mun9yZaqrW',
+    'd.eremeev@almimesen.bizml.ru': 'CtcagNZdIT',
+    's.kiselyov@lanbibanba.bizml.ru': 'c88s3MFDbw',
     'knocrufridunringgent@mail.ru': 'dn333DbbuEfGnqw08Rxm',
     'tworensodiapansaa@mail.ru': 'dsGajJE1TtiAGgZsgyvQ',
     'korlithiobtennick@mail.ru': 'feDLSiueGT89APb81v74',
     'terbgebuoviror@mail.ru': 'gaqaKs06xg22kkXXW2LU',
-    'tioreibunthandvahear@mail.ru': 'ggKygTjxSLzwm4tWd43B'
+    'tioreibunthandvahear@mail.ru': 'ggKygTjxSLzwm4tWd43B',
+    'a.korolyov@brazcompidptigh.bizml.ru': 'Jct1lLZGeu',
+    'zh.ponomaryov@depharupro.bizml.ru': '8Lyx6WHqbe',
+    'k.seryodkin@lithersaron.bizml.ru': 'lqXOwMcbrd',
+    'f.zarubin@quindicnaser.bizml.ru': '6duDsNaTzP',
+    'a.popov@unfolmenit.bizml.ru': '8Lyx6WHqbe',
+    'v.alekseev@repimuscmehl.bizml.ru': 'LEauA8L3fn',
+    'l.koshkin@dantlemephy.bizml.ru': 'LEauA8L3fn',
+    'vovaloc66@gmail.com': 'rty654ytr',
+    'pidrnegr096@gmail.com': 'rty654ytr',
+    'hdhhdhdd091@gmail.com': 'rty654ytr',
+    'pantilopa63@gmail.com': 'rty654ytr',
+    'perkerpitr637@gmail.com': 'rty654ytr',
+    'vtataoaoao@gmail.com': 'rty654ytr',
+    'hhhruddd@gmail.com': 'rty654ytr',
+    'pomagopin8@gmail.com': 'rty654ytr',
+    'ebiniecmi@gmail.com': 'rty654ytr',
+    'lowlox188@gmail.com': 'rty654ytr',
+    'zovpopa@gmail.com': 'rty654ytr',
+    'znaet395@gmail.com': 'rty654ytr',
+    'pornodetey778@gmail.com': 'rty654ytr',
+    'xbgcylrf@lamesamail.com': 'ejvhilmwA!6843',
+    'gsxdyqhw@lechemail.com':'efljjacnS!1457',
+    'bayqacim@lapasamail.com':'blnoshjuY!2449',
+    'yiwdrdas@lamesamail.com':'epicookhA!3884',
+    'bjwbszre@lechemail.com':'bptzlvhoY!8956',
+    'rkyyxilx@lapasamail.com':'zmkcvpnaY!6510',
+    'ajjjigbj@lamesamail.com':'grklcjsuX!9787',
+    'qroxhpfl@lechemail.com':'lgbdwkzaA!2714',
+    'agvfhsbj@lapasamail.com':'aqhwskjjS!4155',
+    'ibojaive@lamesamail.com':'ytakoasbX!3668',
+    'hymqubui@lechemail.com':'okfaqiaiY!2647',
+    'flniarfe@lapasamail.com':'wnurulrdS!6042',
+    'wqiciolc@lamesamail.com':'apewlaytA!6431',
+    'ubxmxhrw@lechemail.com':'npwhklliY!6186',
+    'udwybyon@lapasamail.com':'ruqlolvuS!8704',
+    'vbibidpl@lamesamail.com':'tfyqqehoY!7784',
+    'wmvdqsus@lechemail.com':'aipkfgzmX!7788',
+    'vljfwtlp@lapasamail.com':'wqovpdybA!3483',
+    'svhweggb@lamesamail.com':'aoabvdlsY!6329',
+    'axqswaun@lechemail.com':'gnrxheyeA!3073',
+    'ohnalknf@lapasamail.com':'zyzsukkuX!2533',
+    'hnnkajmj@lamesamail.com':'hhibtharY!2629',
+    'aieddkeo@lechemail.com':'pkftkneaS!2043',
+    'llkpgktc@lapasamail.com':'gergszqvA!7144',
+    'vnlbqnhj@lechemail.com':'vcatvmdcS!5778',
+    'opmrpdop@lapasamail.com':'qndawzkiS!3105',
+    'kplupkcb@lamesamail.com':'qpvndmizA!8066',
+    'bendkhxy@lechemail.com':'eeeevxveA!4189',
+    'vxhlxuju@lapasamail.com':'yyhetupvA!5637',
+    'ifvviguz@lamesamail.com':'hiqmgkmwY!4553',
+    'xzonmwkx@lechemail.com':'wsximnolX!5761',
+    'inrvwczd@lapasamail.com':'kzcjfummX!2793',
+    'atnojjhq@lamesamail.com':'coobkfszS!6603',
+    'hkvubiha@lechemail.com':'efsvfkgsX!2586',
+    'jskjlvyi@lapasamail.com':'lyktbpfnX!8601',
+    'kqsuvbtq@lamesamail.com':'iphodxfrX!4339',
+    'fntzjubj@lechemail.com':'fmraylqjY!8702',
+    'eglpvuoo@lapasamail.com':'axiwtbvxA!1550',
+    'vuhhrfju@lamesamail.com':'owzogeovX!3183',
+    'eascppil@lechemail.com':'vkaeulfnX!3402',
+    'rwtsgnqx@lapasamail.com':'briqhepeY!7840',
+    'jctvddag@lamesamail.com':'quelanliS!4660',
+    'nqvbixar@lechemail.com':'rfyomtzyS!7415',
+    'oovbpzcq@lapasamail.com':'jwunkobzY!5400',
+    'jyaujvev@lamesamail.com':'bunbzsbcY!7155',
+    'ygwjvdkz@lechemail.com':'cpirvoioY!2586',
+    'hckmhzwf@lapasamail.com':'lahylhbkS!2230',
+    'ozhagdus@lamesamail.com':'qdhelcltS!3030',
+    'tdtqqnhq@lechemail.com':'rnaqztzaS!6895',
+    'kevingordon1907@eoantmail.com':'zvhwdxvv2631',
+    'ritamiesch1913@eoantmail.com':'ezrrfoju5522',
+    'patriciacash1979@eoantmail.com':'savnmwes4874',
+    'michelgallagher2001@eoantmail.com':'zvwcbtvf9976',
+    'michaelbailey1958@eoantmail.com':'tmetpvix3539',
+    'leonlevine1953@eoantmail.com':'msnqfzbw5484',
+    'daniellemeade1943@eoantmail.com':'tymmiewu5143',
+    'alberthodges1954@eoantmail.com':'kobunqqu9606',
+    'dorotheaboatwright1940@eoantmail.com':'rtcbasui9575',
+    'lorenaguiniga1909@eoantmail.com':'tpjzbetn4363',
+    'michelecarroll1938@eoantmail.com':'ufqhtdbf8693',
+    'lorenamorris1955@eoantmail.com':'ukykexxq2745',
+    'aliciasmolder1984@eoantmail.com':'hzcxxbrw2050',
+    'loisreed1990@eoantmail.com':'ngfbislj7003',
+    'karisantos1960@eoantmail.com':'mjjpokjq3574',
+    'marythompson1946@eoantmail.com':'rimbsuwh8353',
+    'christinajohnson1916@eoantmail.com':'xfijekxz5289',
+    'adolfoowens1900@eoantmail.com':'qenxtrsz2800',
+    'cherylkennedy1986@eoantmail.com':'tpaovuih5319',
+    'mildredhicks1950@eoantmail.com':'pcscucgy9645',
+    'roymclellan1925@eoantmail.com':'pqdfcotz3117',
+    'justinleath1926@eoantmail.com':'qdpqdbpz1506',
+    'peggybaghdasarian1974@eoantmail.com':'rwkiquep9828',
+    'nancyschexnayder1917@eoantmail.com':'ainrkrfv3139',
+    'loisballesteros1946@eoantmail.com':'idiavjlz4230'
 }
 
 # \xd0\x9f\xd0\xbe\xd0\xbb\xd1\x83\xd1\x87\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd0\xb8
@@ -36,7 +143,7 @@ def print_logo():
         decode(b"\xe2\x94\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x84\xe2\x96\x84 \xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x96\x88 \xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88 \xe2\x96\x88\xe2\x94\x80\xe2\x94\x80 \xe2\x96\x88\xe2\x96\x80\xe2\x96\x80 \xe3\x80\x80 \xe2\x96\x91\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80 \xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x80 \xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88 \xe2\x96\x80\xe2\x96\x80\xe2\x96\x88 \xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88"),
         decode(b"\xe2\x96\x91\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88 \xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80 \xe2\x96\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x80 \xe2\x96\x80\xe2\x96\x80\xe2\x96\x80 \xe2\x96\x80\xe2\x96\x80\xe2\x96\x80 \xe3\x80\x80 \xe2\x96\x91\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88 \xe2\x96\x80\xe2\x94\x80\xe2\x96\x80\xe2\x96\x80 \xe2\x96\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x80 \xe2\x96\x80\xe2\x96\x80\xe2\x96\x80 \xe2\x96\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x80")
     ]
-    print("BY DELAINS & CRIME")
+    print("BY @corexzk & @smsdark")
     green_color = "\\033[32m"  # \xd0\x97\xd0\xb5\xd0\xbb\xd0\xb5\xd0\xbd\xd1\x8b\xd0\xb9 \xd1\x86\xd0\xb2\xd0\xb5\xd1\x82 ANSI escape \xd0\xba\xd0\xbe\xd0\xb4
     reset_color = "\\033[0m"   # \xd0\xa1\xd0\xb1\xd1\x80\xd0\xbe\xd1\x81 \xd1\x86\xd0\xb2\xd0\xb5\xd1\x82\xd0\xb0 ANSI escape \xd0\xba\xd0\xbe\xd0\xb4
 
@@ -97,7 +204,7 @@ def handle_complaint(senders, receivers):
             violation_chat_link = input(decode(b"\xd0\xa1\xd1\x81\xd1\x8b\xd0\xbb\xd0\xba\xd0\xb0 \xd0\xbd\xd0\xb0 \xd0\xbd\xd0\xb0\xd1\x80\xd1\x83\xd1\x88\xd0\xb5\xd0\xbd\xd0\xb8\xd0\xb5: "))
 
             complaint_texts = {
-                "1.1": f"Р—РґСЂР°РІСЃС‚РІСѓР№С‚Рµ, СѓРІР°Р¶Р°РµРјР°СЏ РїРѕРґРґРµСЂР¶РєР°, РІ РІР°С€РµР№ СЃРµС‚Рё СЏ РЅР°С€РµР» С‚РµР»РµРіСЂР°Рј Р°РєРєР°СѓРЅС‚, РєРѕС‚РѕСЂС‹Р№ РЅР°СЂСѓС€Р°РµС‚ РІР°С€Рё РїСЂР°РІРёР»Р°, С‚Р°РєРёРµ РєР°Рє {reason}. Р•РіРѕ СЋР·РµСЂРЅРµР№Рј - {username}, С‚Р°Рє Р¶Рµ РµРіРѕ РєРѕРЅС‚Р°РєС‚РЅС‹Р№ ID - {telegram_ID}. РЎСЃС‹Р»РєР° РЅР° С‡Р°С‚ СЃ РЅР°СЂСѓС€РµРЅРёСЏРјРё - {chat_link}, СЃСЃС‹Р»РєРё РЅР° РЅР°СЂСѓС€РµРЅРёСЏ - {violation_chat_link}. РЎРїР°СЃРёР±Рѕ Р·Р° РїРѕРјРѕС‰СЊ."
+                "1.1": f"Здравствуйте, уважаемая поддержка, в вашей сети я нашел телеграм аккаунт, который нарушает ваши правила, такие как {reason}. Его юзернейм - {username}, так же его контактный ID - {telegram_ID}. Ссылка на чат с нарушениями - {chat_link}, ссылки на нарушения - {violation_chat_link}. Спасибо за помощь."
             }
 
             for sender_email, sender_password in senders.items():
@@ -105,7 +212,7 @@ def handle_complaint(senders, receivers):
                     complaint_text = complaint_texts[complaint_choice]
                     complaint_body = complaint_text.format(reason=reason.strip(), username=username.strip(), telegram_ID=telegram_ID.strip(), chat_link=chat_link.strip(), violation_chat_link=violation_chat_link.strip())
                     send_email(receiver_email, sender_email, sender_password, decode(b"\xd0\x96\xd0\xb0\xd0\xbb\xd0\xbe\xd0\xb1\xd0\xb0 \xd0\xbd\xd0\xb0 Telegram \xd0\xb0\xd0\xba\xd0\xba\xd0\xb0\xd1\x83\xd0\xbd\xd1\x82"), complaint_body)
-                    print(f"РћС‚РїСЂР°РІР»РµРЅРѕ РЅР° {receiver_email} РѕС‚ {sender_email}!")
+                    print(f"Отправлено на {receiver_email} от {sender_email}!")
                     sent_emails += 1
 
         elif complaint_choice == "1.2":
@@ -113,7 +220,7 @@ def handle_complaint(senders, receivers):
             Telegram_account_ID = input("Telegram ID: ")
 
             complaint_texts = {
-                "1.2": f"Р—РґСЂР°РІСЃС‚РІСѓР№С‚Рµ, СЏ СѓС‚РµСЂСЏР» СЃРІРѕР№ С‚РµР»РµРіСЂР°Рј-Р°РєРєР°СѓРЅС‚ РїСѓС‚РµРј РІР·Р»РѕРјР°. РЇ РїРѕРїР°Р»СЃСЏ РЅР° С„РёС€РёРЅРіРѕРІСѓСЋ СЃСЃС‹Р»РєСѓ, Рё С‚РµРїРµСЂСЊ РЅР° РјРѕРµРј Р°РєРєР°СѓРЅС‚Рµ СЃРёРґРёС‚ РєР°РєРѕР№-С‚Рѕ С‡РµР»РѕРІРµРє. РћРЅ СѓСЃС‚Р°РЅРѕРІРёР» РѕР±Р»Р°С‡РЅС‹Р№ РїР°СЂРѕР»СЊ, С‚Р°Рє С‡С‚Рѕ СЏ РЅРµ РјРѕРіСѓ Р·Р°Р№С‚Рё РІ СЃРІРѕР№ Р°РєРєР°СѓРЅС‚ Рё РїСЂРѕС€Сѓ Рѕ РїРѕРјРѕС‰Рё. РњРѕР№ СЋР·РµСЂРЅРµР№Рј вЂ” {account_username}, Р° РјРѕР№ Р°Р№РґРё, РµСЃР»Рё Р·Р»РѕСѓРјС‹С€Р»РµРЅРЅРёРє РїРѕРјРµРЅСЏР» СЋР·РµСЂРЅРµР№Рј вЂ” {Telegram_account_ID}. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРµСЂРµР·Р°РіСЂСѓР·РёС‚Рµ СЃРµСЃСЃРёРё РёР»Рё СѓРґР°Р»РёС‚Рµ СЌС‚РѕС‚ Р°РєРєР°СѓРЅС‚, С‚Р°Рє РєР°Рє Сѓ РјРµРЅСЏ С‚Р°Рј РѕС‡РµРЅСЊ РјРЅРѕРіРѕ РІР°Р¶РЅС‹С… РґР°РЅРЅС‹С…."
+                "1.2": f"Здравствуйте, я утерял свой телеграм-аккаунт путем взлома. Я попался на фишинговую ссылку, и теперь на моем аккаунте сидит какой-то человек. Он установил облачный пароль, так что я не могу зайти в свой аккаунт и прошу о помощи. Мой юзернейм — {account_username}, а мой айди, если злоумышленник поменял юзернейм — {Telegram_account_ID}. Пожалуйста, перезагрузите сессии или удалите этот аккаунт, так как у меня там очень много важных данных."
             }
 
             for sender_email, sender_password in senders.items():
@@ -121,7 +228,7 @@ def handle_complaint(senders, receivers):
                     complaint_text = complaint_texts[complaint_choice]
                     complaint_body = complaint_text.format(account_username=account_username.strip(), Telegram_account_ID=Telegram_account_ID.strip())
                     send_email(receiver_email, sender_email, sender_password, decode(b"\xd0\xaf \xd1\x83\xd1\x82\xd0\xb5\xd1\x80\xd1\x8f\xd0\xbb \xd1\x81\xd0\xb2\xd0\xbe\xd0\xb9 \xd1\x82\xd0\xb5\xd0\xbb\xd0\xb5\xd0\xb3\xd1\x80\xd0\xb0\xd0\xbc-\xd0\xb0\xd0\xba\xd0\xba\xd0\xb0\xd1\x83\xd0\xbd\xd1\x82"), complaint_body)
-                    print(f"РћС‚РїСЂР°РІР»РµРЅРѕ РЅР° {receiver_email} РѕС‚ {sender_email}!")
+                    print(f"Отправлено на {receiver_email} от {sender_email}!")
 
         elif complaint_choice == "1.3":
             account_username = input(decode(b"\xd0\xae\xd0\xb7\xd0\xb5\xd1\x80\xd0\xbd\xd0\xb5\xd0\xb9\xd0\xbc: "))
@@ -136,10 +243,10 @@ def handle_complaint(senders, receivers):
                     complaint_text = complaint_texts[complaint_choice]
                     complaint_body = complaint_text.format(account_username=account_username.strip(), chat_link=chat_link.strip(), violation_chat_link=violation_chat_link.strip())
                     send_email(receiver_email, sender_email, sender_password, decode(b"\xd0\x96\xd0\xb0\xd0\xbb\xd0\xbe\xd0\xb1\xd0\xb0 \xd0\xbd\xd0\xb0 Telegram \xd0\xb0\xd0\xba\xd0\xba\xd0\xb0\xd1\x83\xd0\xbd\xd1\x82"), complaint_body)
-                    print(f"РћС‚РїСЂР°РІР»РµРЅРѕ РЅР° {receiver_email} РѕС‚ {sender_email}!")
+                    print(f"Отправлено на {receiver_email} от {sender_email}!")
 
     elif choice == "4":
-        print("@Crimeperehod \xd0\xb8 @delains")
+        print("@edelweissadpt \xd0\xb8 @corexzk")
         return
                             
     elif choice == "2":
